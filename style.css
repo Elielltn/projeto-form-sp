@@ -48,7 +48,7 @@ body{
     border: 2px solid #dfdfdf;
 }
 .form-content a {
-    position: absolute;
+    position:relative;
     bottom: -8px;
     left: 0;
     visibility: hidden;
@@ -70,6 +70,7 @@ body{
 .form-content.error a{
     color: #ff3b25;
     visibility: visible;
+    
 }
 
 
