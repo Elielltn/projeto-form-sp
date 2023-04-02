@@ -34,7 +34,7 @@ body{
 .form-content{
     margin-bottom: 8px;
     padding-bottom: 18px;
-    position: relative;
+    position:relative;
 }
 .form-content label{
     display: inline-block;
@@ -48,7 +48,7 @@ body{
     border: 2px solid #dfdfdf;
 }
 .form-content a {
-    position:relative;
+    position:absolute;
     bottom: -8px;
     left: 0;
     visibility: hidden;
@@ -70,7 +70,7 @@ body{
 .form-content.error a{
     color: #ff3b25;
     visibility: visible;
-    
+    position:relative;
 }
 
 
